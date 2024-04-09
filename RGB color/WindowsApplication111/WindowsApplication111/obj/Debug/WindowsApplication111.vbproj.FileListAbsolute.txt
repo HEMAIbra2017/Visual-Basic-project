@@ -1,0 +1,10 @@
+C:\Users\HEMA\Desktop\VB project\RGB color\WindowsApplication111\WindowsApplication111\bin\Debug\WindowsApplication111.exe.config
+C:\Users\HEMA\Desktop\VB project\RGB color\WindowsApplication111\WindowsApplication111\obj\Debug\WindowsApplication111.Form1.resources
+C:\Users\HEMA\Desktop\VB project\RGB color\WindowsApplication111\WindowsApplication111\obj\Debug\WindowsApplication111.Resources.resources
+C:\Users\HEMA\Desktop\VB project\RGB color\WindowsApplication111\WindowsApplication111\obj\Debug\WindowsApplication111.vbproj.GenerateResource.Cache
+C:\Users\HEMA\Desktop\VB project\RGB color\WindowsApplication111\WindowsApplication111\bin\Debug\WindowsApplication111.exe
+C:\Users\HEMA\Desktop\VB project\RGB color\WindowsApplication111\WindowsApplication111\bin\Debug\WindowsApplication111.pdb
+C:\Users\HEMA\Desktop\VB project\RGB color\WindowsApplication111\WindowsApplication111\bin\Debug\WindowsApplication111.xml
+C:\Users\HEMA\Desktop\VB project\RGB color\WindowsApplication111\WindowsApplication111\obj\Debug\WindowsApplication111.exe
+C:\Users\HEMA\Desktop\VB project\RGB color\WindowsApplication111\WindowsApplication111\obj\Debug\WindowsApplication111.xml
+C:\Users\HEMA\Desktop\VB project\RGB color\WindowsApplication111\WindowsApplication111\obj\Debug\WindowsApplication111.pdb
