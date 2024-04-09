@@ -1,0 +1,10 @@
+C:\Users\HEMA\Desktop\VB project\traffic\WindowsApplication152\WindowsApplication152\bin\Debug\WindowsApplication152.exe.config
+C:\Users\HEMA\Desktop\VB project\traffic\WindowsApplication152\WindowsApplication152\bin\Debug\WindowsApplication152.exe
+C:\Users\HEMA\Desktop\VB project\traffic\WindowsApplication152\WindowsApplication152\bin\Debug\WindowsApplication152.pdb
+C:\Users\HEMA\Desktop\VB project\traffic\WindowsApplication152\WindowsApplication152\bin\Debug\WindowsApplication152.xml
+C:\Users\HEMA\Desktop\VB project\traffic\WindowsApplication152\WindowsApplication152\obj\Debug\WindowsApplication152.Form1.resources
+C:\Users\HEMA\Desktop\VB project\traffic\WindowsApplication152\WindowsApplication152\obj\Debug\WindowsApplication152.Resources.resources
+C:\Users\HEMA\Desktop\VB project\traffic\WindowsApplication152\WindowsApplication152\obj\Debug\WindowsApplication152.vbproj.GenerateResource.Cache
+C:\Users\HEMA\Desktop\VB project\traffic\WindowsApplication152\WindowsApplication152\obj\Debug\WindowsApplication152.exe
+C:\Users\HEMA\Desktop\VB project\traffic\WindowsApplication152\WindowsApplication152\obj\Debug\WindowsApplication152.xml
+C:\Users\HEMA\Desktop\VB project\traffic\WindowsApplication152\WindowsApplication152\obj\Debug\WindowsApplication152.pdb
