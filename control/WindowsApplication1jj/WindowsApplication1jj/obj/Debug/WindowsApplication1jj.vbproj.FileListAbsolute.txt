@@ -1,0 +1,9 @@
+C:\Users\HEMA\Desktop\VB project\control\WindowsApplication1jj\WindowsApplication1jj\bin\Debug\WindowsApplication1jj.exe.config
+C:\Users\HEMA\Desktop\VB project\control\WindowsApplication1jj\WindowsApplication1jj\bin\Debug\WindowsApplication1jj.exe
+C:\Users\HEMA\Desktop\VB project\control\WindowsApplication1jj\WindowsApplication1jj\bin\Debug\WindowsApplication1jj.pdb
+C:\Users\HEMA\Desktop\VB project\control\WindowsApplication1jj\WindowsApplication1jj\bin\Debug\WindowsApplication1jj.xml
+C:\Users\HEMA\Desktop\VB project\control\WindowsApplication1jj\WindowsApplication1jj\obj\Debug\WindowsApplication1jj.Resources.resources
+C:\Users\HEMA\Desktop\VB project\control\WindowsApplication1jj\WindowsApplication1jj\obj\Debug\WindowsApplication1jj.vbproj.GenerateResource.Cache
+C:\Users\HEMA\Desktop\VB project\control\WindowsApplication1jj\WindowsApplication1jj\obj\Debug\WindowsApplication1jj.exe
+C:\Users\HEMA\Desktop\VB project\control\WindowsApplication1jj\WindowsApplication1jj\obj\Debug\WindowsApplication1jj.xml
+C:\Users\HEMA\Desktop\VB project\control\WindowsApplication1jj\WindowsApplication1jj\obj\Debug\WindowsApplication1jj.pdb
