@@ -1,0 +1,11 @@
+C:\Users\HEMA\Desktop\VB project\control size\WindowsApplication1556\WindowsApplication1556\bin\Debug\WindowsApplication1556.exe.config
+C:\Users\HEMA\Desktop\VB project\control size\WindowsApplication1556\WindowsApplication1556\obj\Debug\WindowsApplication1556.Form1.resources
+C:\Users\HEMA\Desktop\VB project\control size\WindowsApplication1556\WindowsApplication1556\obj\Debug\WindowsApplication1556.Resources.resources
+C:\Users\HEMA\Desktop\VB project\control size\WindowsApplication1556\WindowsApplication1556\obj\Debug\WindowsApplication1556.vbproj.GenerateResource.Cache
+C:\Users\HEMA\Desktop\VB project\control size\WindowsApplication1556\WindowsApplication1556\bin\Debug\student info.accdb
+C:\Users\HEMA\Desktop\VB project\control size\WindowsApplication1556\WindowsApplication1556\bin\Debug\WindowsApplication1556.exe
+C:\Users\HEMA\Desktop\VB project\control size\WindowsApplication1556\WindowsApplication1556\bin\Debug\WindowsApplication1556.pdb
+C:\Users\HEMA\Desktop\VB project\control size\WindowsApplication1556\WindowsApplication1556\bin\Debug\WindowsApplication1556.xml
+C:\Users\HEMA\Desktop\VB project\control size\WindowsApplication1556\WindowsApplication1556\obj\Debug\WindowsApplication1556.exe
+C:\Users\HEMA\Desktop\VB project\control size\WindowsApplication1556\WindowsApplication1556\obj\Debug\WindowsApplication1556.xml
+C:\Users\HEMA\Desktop\VB project\control size\WindowsApplication1556\WindowsApplication1556\obj\Debug\WindowsApplication1556.pdb
